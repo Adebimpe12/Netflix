@@ -72,3 +72,19 @@ header button{
     background-repeat: no-repeat;
     object-position: 20% 20%;
 }
+.back{
+    background-color: black;
+}
+
+.sectionaa{
+    float: right;
+}
+.tv{
+    position: absolute;
+}
+.vide{
+    position: relative;
+    z-index: 1;
+    margin-top: 80px;
+    margin-left: 80px;
+}
